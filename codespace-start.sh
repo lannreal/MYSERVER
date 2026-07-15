@@ -28,6 +28,6 @@ echo "📦 Menginstal package Node.js (jika belum)..."
 npm install
 
 echo "🤖 Menjalankan Bot Automation..."
-node app.js
+node app.js --api
 
 echo "🛑 Bot berhenti."
